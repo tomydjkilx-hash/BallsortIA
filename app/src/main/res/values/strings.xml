@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ball Sort AI</string>
+    <string name="accessibility_service_description">Permite que o Ball Sort AI leia a tela do jogo e toque nos tubos automaticamente para jogar por você.</string>
+</resources>
